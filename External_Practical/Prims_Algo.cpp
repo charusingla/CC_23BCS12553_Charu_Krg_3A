@@ -56,3 +56,5 @@ int main() {
 
     return 0;
 }
+
+// T.C. = O((E + V) log V) and S.C. = O(V + E)
